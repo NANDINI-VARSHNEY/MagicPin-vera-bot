@@ -88,3 +88,4 @@ BOT_URL=http://localhost:8080 TEST_SCENARIO=all ./venv/bin/python judge_simulato
 ## 5. What Additional Context Would Help Most
 1. **Real Merchant Schedule / Slot Availability**: Direct integration with clinic/salon management software (e.g. Practo, Dentcubate) to offer live real-time booking slots in customer recall nudges.
 2. **Channel-Level Delivery Telemetry**: WhatsApp read receipts and interaction logs to adapt outreach time slots based on past merchant responsiveness patterns.
+# MagicPin-vera-bot
