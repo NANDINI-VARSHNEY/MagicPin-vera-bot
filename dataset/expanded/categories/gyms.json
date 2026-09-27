@@ -1,0 +1,60 @@
+{
+  "slug": "gyms",
+  "voice": {
+    "tone": "coaching_motivational",
+    "vocab_allowed": [
+      "personal training",
+      "retention",
+      "body composition",
+      "strength training",
+      "pilates"
+    ],
+    "vocab_taboo": [
+      "easy fix",
+      "no effort",
+      "instant results"
+    ]
+  },
+  "peer_stats": {
+    "avg_rating": 4.7,
+    "avg_reviews": 85,
+    "avg_ctr": 0.058,
+    "scope": "chennai_fitness_studios"
+  },
+  "offer_catalog": [
+    {
+      "id": "gym_001",
+      "title": "First Month Trial @ ₹499",
+      "value": "499",
+      "audience": "new_joiner"
+    },
+    {
+      "id": "gym_002",
+      "title": "Free Body Composition Analysis + Personal Training Session",
+      "value": "750",
+      "audience": "lapsed_member"
+    }
+  ],
+  "digest": [
+    {
+      "id": "d_2026W17_summer_fitness",
+      "kind": "trend",
+      "title": "Summer bootcamp & kids fitness enrollment jumps 52%",
+      "source": "Fitness India Report April 2026",
+      "summary": "Short-format summer camp programs deliver 55% trial-to-paid conversion."
+    }
+  ],
+  "seasonal_beats": [
+    {
+      "month_range": "Apr-Jun",
+      "note": "Summer fitness camps and morning hydration programs"
+    }
+  ],
+  "trend_signals": [
+    {
+      "query": "pilates reformer chennai",
+      "delta_yoy": 0.7,
+      "segment_age": "25-45"
+    }
+  ]
+}

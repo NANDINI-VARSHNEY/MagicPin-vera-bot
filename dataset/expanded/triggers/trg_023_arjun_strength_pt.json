@@ -1,0 +1,15 @@
+{
+  "id": "trg_023_arjun_strength_pt",
+  "scope": "customer",
+  "kind": "trial_followup",
+  "source": "internal",
+  "merchant_id": "m_007_powerhouse_gym_bangalore",
+  "customer_id": "c_009_arjun_for_m007",
+  "payload": {
+    "sessions_completed": 12,
+    "next_pt_package": "12-session Strength Block"
+  },
+  "urgency": 2,
+  "suppression_key": "pt:c_009_arjun:renewal",
+  "expires_at": "2026-05-12T00:00:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trg_012_priti_seasonal_wellness",
+  "scope": "customer",
+  "kind": "recall_due",
+  "source": "internal",
+  "merchant_id": "m_009_apollo_pharmacy_jaipur",
+  "customer_id": "c_014_priti_for_m009",
+  "payload": {
+    "topic": "Summer family rehydration & sunscreen essentials"
+  },
+  "urgency": 1,
+  "suppression_key": "seasonal:c_014_priti:summer",
+  "expires_at": "2026-05-15T00:00:00Z"
+}

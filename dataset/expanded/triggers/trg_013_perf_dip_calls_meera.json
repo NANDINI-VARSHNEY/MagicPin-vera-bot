@@ -1,0 +1,16 @@
+{
+  "id": "trg_013_perf_dip_calls_meera",
+  "scope": "merchant",
+  "kind": "perf_dip",
+  "source": "internal",
+  "merchant_id": "m_001_drmeera_dentist_delhi",
+  "customer_id": null,
+  "payload": {
+    "metric": "calls",
+    "delta": -0.05,
+    "views": 2410
+  },
+  "urgency": 3,
+  "suppression_key": "perf_dip:m_001:calls_2026",
+  "expires_at": "2026-05-05T00:00:00Z"
+}

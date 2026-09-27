@@ -1,0 +1,15 @@
+{
+  "id": "trg_004_treatment_followup_rohit",
+  "scope": "customer",
+  "kind": "treatment_followup",
+  "source": "internal",
+  "merchant_id": "m_001_drmeera_dentist_delhi",
+  "customer_id": "c_002_rohit_for_m001",
+  "payload": {
+    "service": "root_canal_session_2",
+    "previous_service": "root_canal_session_1"
+  },
+  "urgency": 4,
+  "suppression_key": "treatment:c_002_rohit:rct2",
+  "expires_at": "2026-05-05T00:00:00Z"
+}

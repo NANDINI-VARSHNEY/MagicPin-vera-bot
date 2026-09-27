@@ -1,0 +1,15 @@
+{
+  "id": "trg_010_kids_yoga_camp_karthik",
+  "scope": "customer",
+  "kind": "trial_followup",
+  "source": "internal",
+  "merchant_id": "m_008_zenyoga_gym_chennai",
+  "customer_id": "c_012_karthik_jr_for_m008",
+  "payload": {
+    "program": "Kids Summer Yoga Camp 4-week",
+    "fee": "₹2,499"
+  },
+  "urgency": 2,
+  "suppression_key": "kidsyoga:c_012:summer26",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "restaurants",
+  "voice": {
+    "tone": "operator_to_operator",
+    "vocab_allowed": [
+      "covers",
+      "average order value",
+      "table turnaround",
+      "weekday thali",
+      "dine-in"
+    ],
+    "vocab_taboo": [
+      "unhygienic",
+      "food poisoning",
+      "dirty kitchen"
+    ]
+  },
+  "peer_stats": {
+    "avg_rating": 4.3,
+    "avg_reviews": 320,
+    "avg_ctr": 0.051,
+    "scope": "bangalore_casual_dining"
+  },
+  "offer_catalog": [
+    {
+      "id": "res_001",
+      "title": "Unlimited Lunch Thali @ ₹199",
+      "value": "199",
+      "audience": "office_crowd"
+    },
+    {
+      "id": "res_002",
+      "title": "Buy 1 Get 1 Large Pizza on Match Nights",
+      "value": "450",
+      "audience": "weekend_delivery"
+    }
+  ],
+  "digest": [
+    {
+      "id": "d_2026W17_ipl_dining",
+      "kind": "operational",
+      "title": "Evening delivery spikes 65% during match nights",
+      "source": "F&B Operator Insights 2026",
+      "summary": "Match night combo pre-orders recover dinner ticket sizes."
+    }
+  ],
+  "seasonal_beats": [
+    {
+      "month_range": "Mar-May",
+      "note": "Cricket match screenings and cold beverage combos"
+    }
+  ],
+  "trend_signals": [
+    {
+      "query": "late night pizza delivery delhi",
+      "delta_yoy": 0.48,
+      "segment_age": "20-35"
+    }
+  ]
+}

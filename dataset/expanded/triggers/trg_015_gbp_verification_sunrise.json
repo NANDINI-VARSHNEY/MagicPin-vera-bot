@@ -1,0 +1,15 @@
+{
+  "id": "trg_015_gbp_verification_sunrise",
+  "scope": "merchant",
+  "kind": "milestone_reached",
+  "source": "internal",
+  "merchant_id": "m_010_sunrisepharm_pharmacy_lucknow",
+  "customer_id": null,
+  "payload": {
+    "action_required": "verify_gbp_profile",
+    "potential_call_lift": "35%"
+  },
+  "urgency": 3,
+  "suppression_key": "gbp:m_010:verification",
+  "expires_at": "2026-05-20T00:00:00Z"
+}

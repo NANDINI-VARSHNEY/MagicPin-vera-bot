@@ -1,0 +1,16 @@
+{
+  "id": "trg_018_pediatric_checkup_aanya",
+  "scope": "customer",
+  "kind": "recall_due",
+  "source": "internal",
+  "merchant_id": "m_001_drmeera_dentist_delhi",
+  "customer_id": "c_003_aanya_for_m001",
+  "payload": {
+    "service": "pediatric_checkup",
+    "parent": "Sneha",
+    "last_visit": "2026-01-08"
+  },
+  "urgency": 3,
+  "suppression_key": "recall:c_003_aanya:pediatric",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

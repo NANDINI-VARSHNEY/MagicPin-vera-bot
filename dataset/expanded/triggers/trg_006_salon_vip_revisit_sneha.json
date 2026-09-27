@@ -1,0 +1,15 @@
+{
+  "id": "trg_006_salon_vip_revisit_sneha",
+  "scope": "customer",
+  "kind": "recall_due",
+  "source": "internal",
+  "merchant_id": "m_003_studio11_salon_hyderabad",
+  "customer_id": "c_004_sneha_for_m003",
+  "payload": {
+    "service": "balayage_touchup",
+    "preferred_stylist": "Priya"
+  },
+  "urgency": 2,
+  "suppression_key": "salon:c_004_sneha:revisit",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

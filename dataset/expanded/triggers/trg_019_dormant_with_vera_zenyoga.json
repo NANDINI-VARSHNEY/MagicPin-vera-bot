@@ -1,0 +1,15 @@
+{
+  "id": "trg_019_dormant_with_vera_zenyoga",
+  "scope": "merchant",
+  "kind": "dormant_with_vera",
+  "source": "internal",
+  "merchant_id": "m_008_zenyoga_gym_chennai",
+  "customer_id": null,
+  "payload": {
+    "days_inactive": 15,
+    "active_members": 95
+  },
+  "urgency": 2,
+  "suppression_key": "dormant:m_008:2026",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

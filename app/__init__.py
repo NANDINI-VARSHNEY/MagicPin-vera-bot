@@ -1,0 +1,1 @@
+# magicpin AI Challenge bot

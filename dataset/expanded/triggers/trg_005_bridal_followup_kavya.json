@@ -1,0 +1,16 @@
+{
+  "id": "trg_005_bridal_followup_kavya",
+  "scope": "customer",
+  "kind": "trial_followup",
+  "source": "internal",
+  "merchant_id": "m_003_studio11_salon_hyderabad",
+  "customer_id": "c_005_kavya_for_m003",
+  "payload": {
+    "trial_date": "2026-03-22",
+    "wedding_date": "2026-11-08",
+    "package": "Full Bridal Glow"
+  },
+  "urgency": 3,
+  "suppression_key": "bridal:c_005_kavya:2026",
+  "expires_at": "2026-05-15T00:00:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trg_025_curious_ask_apollo",
+  "scope": "merchant",
+  "kind": "curious_ask_due",
+  "source": "internal",
+  "merchant_id": "m_009_apollo_pharmacy_jaipur",
+  "customer_id": null,
+  "payload": {
+    "topic": "Home delivery expansion to 5km radius"
+  },
+  "urgency": 1,
+  "suppression_key": "curious:m_009:delivery_radius",
+  "expires_at": "2026-05-30T00:00:00Z"
+}

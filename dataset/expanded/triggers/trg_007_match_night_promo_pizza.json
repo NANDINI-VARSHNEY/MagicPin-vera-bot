@@ -1,0 +1,16 @@
+{
+  "id": "trg_007_match_night_promo_pizza",
+  "scope": "merchant",
+  "kind": "perf_spike",
+  "source": "internal",
+  "merchant_id": "m_005_pizzajunction_restaurant_delhi",
+  "customer_id": null,
+  "payload": {
+    "event": "IPL Weekend Match",
+    "dish": "BBQ Chicken Pizza",
+    "promo": "Buy 1 Get 1"
+  },
+  "urgency": 2,
+  "suppression_key": "promo:m_005_pizza:ipl_w17",
+  "expires_at": "2026-05-02T00:00:00Z"
+}

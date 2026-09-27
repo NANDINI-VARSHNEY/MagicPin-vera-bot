@@ -1,0 +1,16 @@
+{
+  "id": "trg_020_dipti_sunday_brunch",
+  "scope": "customer",
+  "kind": "customer_lapsed_soft",
+  "source": "internal",
+  "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+  "customer_id": "c_008_dipti_for_m006",
+  "payload": {
+    "family_size": 4,
+    "preferred_slot": "sunday_brunch",
+    "offer": "10% on Family Dosa Combos"
+  },
+  "urgency": 2,
+  "suppression_key": "lapsed:c_008_dipti:brunch",
+  "expires_at": "2026-05-15T00:00:00Z"
+}

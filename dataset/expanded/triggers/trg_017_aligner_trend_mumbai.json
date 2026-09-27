@@ -1,0 +1,15 @@
+{
+  "id": "trg_017_aligner_trend_mumbai",
+  "scope": "merchant",
+  "kind": "research_digest",
+  "source": "external",
+  "merchant_id": "m_002_drvikram_dentist_mumbai",
+  "customer_id": null,
+  "payload": {
+    "category": "dentists",
+    "topic": "Clear Aligner demand spike +62% YoY in Bandra"
+  },
+  "urgency": 2,
+  "suppression_key": "trend:dentists:aligner_mumbai",
+  "expires_at": "2026-05-15T00:00:00Z"
+}

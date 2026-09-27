@@ -1,0 +1,15 @@
+{
+  "id": "trg_009_gym_renewal_rashmi",
+  "scope": "customer",
+  "kind": "renewal_due",
+  "source": "internal",
+  "merchant_id": "m_007_powerhouse_gym_bangalore",
+  "customer_id": "c_010_rashmi_for_m007",
+  "payload": {
+    "last_expiry": "2026-02-28",
+    "winback_discount": "20% off annual"
+  },
+  "urgency": 3,
+  "suppression_key": "winback:c_010_rashmi:2026",
+  "expires_at": "2026-05-15T00:00:00Z"
+}

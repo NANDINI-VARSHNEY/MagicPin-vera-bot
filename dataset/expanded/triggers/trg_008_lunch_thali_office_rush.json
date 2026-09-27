@@ -1,0 +1,15 @@
+{
+  "id": "trg_008_lunch_thali_office_rush",
+  "scope": "merchant",
+  "kind": "perf_spike",
+  "source": "internal",
+  "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+  "customer_id": null,
+  "payload": {
+    "offer": "Unlimited Lunch Thali @ ₹199",
+    "target_audience": "Indiranagar tech offices"
+  },
+  "urgency": 2,
+  "suppression_key": "lunch:m_006:thali_w17",
+  "expires_at": "2026-05-01T00:00:00Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "trg_011_atorvastatin_recall_sharma",
+  "scope": "customer",
+  "kind": "chronic_refill_due",
+  "source": "internal",
+  "merchant_id": "m_009_apollo_pharmacy_jaipur",
+  "customer_id": "c_013_grandfather_for_m009",
+  "payload": {
+    "molecule": "atorvastatin",
+    "safe_alternate_batch_available": true
+  },
+  "urgency": 4,
+  "suppression_key": "safety:c_013_sharma:batch_recall",
+  "expires_at": "2026-05-01T00:00:00Z"
+}

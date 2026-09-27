@@ -1,0 +1,15 @@
+{
+  "id": "trg_021_naveen_filter_coffee",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+  "customer_id": "c_007_naveen_for_m006",
+  "payload": {
+    "dish": "Mylari Dosa",
+    "frequent_visit_count": 38
+  },
+  "urgency": 1,
+  "suppression_key": "loyalty:c_007_naveen:vip",
+  "expires_at": "2026-05-02T00:00:00Z"
+}

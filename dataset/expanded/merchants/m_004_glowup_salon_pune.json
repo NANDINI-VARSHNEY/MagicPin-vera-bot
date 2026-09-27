@@ -1,0 +1,52 @@
+{
+  "merchant_id": "m_004_glowup_salon_pune",
+  "category_slug": "salons",
+  "identity": {
+    "name": "Glow Up Salon by Geeta",
+    "city": "Pune",
+    "locality": "Kothrud",
+    "place_id": "ChIJ_KOTHRUD_SALON_004",
+    "verified": true,
+    "languages": [
+      "en",
+      "mr",
+      "hi"
+    ],
+    "owner_first_name": "Geeta",
+    "established_year": 2021
+  },
+  "subscription": {
+    "status": "active",
+    "plan": "Basic",
+    "days_remaining": 45
+  },
+  "performance": {
+    "window_days": 30,
+    "views": 1420,
+    "calls": 22,
+    "directions": 48,
+    "ctr": 0.035,
+    "leads": 14,
+    "delta_7d": {
+      "views_pct": -0.1,
+      "calls_pct": -0.15
+    }
+  },
+  "offers": [
+    {
+      "id": "o_glow_001",
+      "title": "Summer Facial + D-Tan @ ₹799",
+      "status": "active"
+    }
+  ],
+  "conversation_history": [],
+  "customer_aggregate": {
+    "total_unique_ytd": 420,
+    "repeat_customer_pct": 0.38
+  },
+  "signals": [
+    "calls_below_median",
+    "summer_promo_needed"
+  ],
+  "review_themes": []
+}
